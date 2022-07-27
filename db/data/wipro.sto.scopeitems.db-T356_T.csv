@@ -1,0 +1,17 @@
+MANDT,SPRAS,ARTPR,PRIOK,PRIOKX
+900,D,PM,1,
+900,D,PM,2,
+900,D,PM,3,
+900,D,PM,4,
+900,D,QM,1,1 - sehr hoch
+900,D,QM,2,2 - hoch
+900,D,QM,3,3 - mittel
+900,D,QM,4,4 - niedrig
+900,E,PM,1,Very High
+900,E,PM,2,High
+900,E,PM,3,Medium
+900,E,PM,4,Low
+900,E,QM,1,1-Very High
+900,E,QM,2,2-High
+900,E,QM,3,3-Medium
+900,E,QM,4,4-Low
